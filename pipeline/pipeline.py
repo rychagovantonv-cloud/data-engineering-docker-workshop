@@ -1,6 +1,4 @@
 import sys
-
-import sys
 print("arguments", sys.argv)
 
 day = int(sys.argv[1])
